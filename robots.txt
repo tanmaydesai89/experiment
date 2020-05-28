@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Allow: /login
+Allow: /signup
+Allow: /
+SITEMAP: https://draftbox.co/sitemap.xml
